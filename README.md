@@ -1,1 +1,2 @@
-# dsc-mac-m1-conda-installation
+# Installing Anaconda - Mac M1
+
